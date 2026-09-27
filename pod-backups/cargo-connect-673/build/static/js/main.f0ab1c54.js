@@ -31649,6 +31649,20 @@
         ],
         img: "https://images.pexels.com/photos/24246926/pexels-photo-24246926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       },
+      {
+        n: "05",
+        icon: wp,
+        title: "Integrated Logistics & Warehousing",
+        tagline: "Storage that thinks ahead of demand.",
+        desc: "Bonded warehousing, inventory intelligence and last-mile distribution, woven directly into your freight plan so cargo never waits idle between modes.",
+        points: [
+          "Bonded & general warehousing",
+          "Inventory visibility & stock intelligence",
+          "Pick, pack & distribution networks",
+          "High-value & temperature-sensitive handling",
+        ],
+        img: "https://images.pexels.com/photos/24246926/pexels-photo-24246926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      },
     ],
     qg = [
       {
